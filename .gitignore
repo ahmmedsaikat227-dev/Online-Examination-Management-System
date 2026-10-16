@@ -1,0 +1,10 @@
+# Compiled output
+*.exe
+*.out
+*.o
+
+# Runtime data (may contain plain-text passwords and user records)
+/users.txt
+/exams.txt
+/questions.txt
+/results.txt
